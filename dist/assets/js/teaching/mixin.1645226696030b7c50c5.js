@@ -1,0 +1,2 @@
+webpackJsonp([26],{453:function(t,e,i){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a=i(7),n=i.n(a),s=i(25),c=i.n(s);e.default={methods:{statistic:function(t,e){n.a.post("/teacher/api/teach/interaction_statistic",c.a.stringify(t),e)}}}}},[453]);
+//# sourceMappingURL=mixin.1645226696030b7c50c5.js.map
